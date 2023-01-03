@@ -1,3 +1,5 @@
+import axios from 'axios';
+
 import { styled } from '@mui/system';
 import { MatxVerticalNav } from 'app/components';
 import useSettings from 'app/hooks/useSettings';
